@@ -1,5 +1,5 @@
 # 🌍 Temperature Trend Analysis using Google Earth Engine & Python
-This repository contains code for monitoring the change 
+This repository contains a Python-based workflow to analyze long-term temperature trends over a selected region using Google Earth Engine (GEE) and ECMWF ERA5 datasets. The script leverages geospatial libraries and statistical tools to extract, process, and visualize temperature data over time, providing insights into climate change patterns.
 
 
 
