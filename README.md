@@ -40,6 +40,8 @@ Data Collection : Load historical daily or monthly temperature data from ECMWF E
 
 Trend Analysis : Apply the Mann-Kendall trend test to detect statistically significant increases or decreases in temperature over time.
 
+Country Name Selection :  Select a country by name to automatically load and display its national boundary 
+
 Visualization : Generate time series plots, spatial maps, and clustered regions to better understand spatial and temporal temperature patterns.
 
 
