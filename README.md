@@ -11,4 +11,6 @@ The purpose of this project is to analyze the temporal changes in lake area, hel
 ## Example Outputs
 
 ![image alt](https://github.com/SaeidDaliriSusefi/Air-Temperature-Monitoring/blob/f3aef3564f6d9b1e43a33ee823bf69ed160656ec/Images/Ex1.png)
-![image alt](https://github.com/SaeidDaliriSusefi/Air-Temperature-Monitoring/blob/f3aef3564f6d9b1e43a33ee823bf69ed160656ec/Images/Ex1.png)
+
+
+![image alt](https://github.com/SaeidDaliriSusefi/Air-Temperature-Monitoring/blob/288f6a3fd2f228259e31e0fa51c832c30edf6473/Images/Ex2.png)
