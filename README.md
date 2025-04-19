@@ -50,7 +50,10 @@ Visualization : Generate time series plots, spatial maps, and clustered regions 
 
 
 ## 📸 Example Outputs
-(You can add example charts or screenshots here for better presentation)
+
+![image alt](https://github.com/SaeidDaliriSusefi/Lake-Monitoring-Modis/blob/93f692f3a74ce9533a79dca36b00ba9e73c87ac3/Images/urmia%20lake_Area.png)
+![image alt](https://github.com/SaeidDaliriSusefi/Lake-Monitoring-Modis/blob/93f692f3a74ce9533a79dca36b00ba9e73c87ac3/Images/urmia%20lake_Area.png)
+
 
 
 
