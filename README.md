@@ -15,24 +15,6 @@ pymannkendall – For performing non-parametric trend tests.
 matplotlib, pandas, geopandas, and more – For visualization and data manipulation.
 
 
-
-
-
-## 📍 How It Works
-Authentication : Authenticate your Google Earth Engine account and initialize the session with your project settings.
-
-ROI Selection : Use an interactive map (via geemap) to draw and define your Region of Interest (ROI).
-
-Period Selection : Define the time period of analysis (e.g., 1950–2025) to explore long-term trends.
-
-Data Collection : Load historical daily or monthly temperature data from ECMWF ERA5/ERA5-Land datasets using xee and xarray.
-
-Trend Analysis : Apply the Mann-Kendall trend test to detect statistically significant increases or decreases in temperature over time.
-
-Country Name Selection :  Select a country by name to automatically load and display its national boundary 
-
-Visualization : Generate 
-
 ## 📸 Example Outputs
 
 ### Iran
