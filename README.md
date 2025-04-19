@@ -2,23 +2,6 @@
 This repository contains a Python-based workflow to analyze long-term air temperature at 2m height (monthly average) trends over a selected region using Google Earth Engine (GEE) and ERA5 Monthly Aggregates datasets(available from 1980 with 27km resolution). The script leverages geospatial libraries and statistical tools to extract, process, and visualize temperature data over time, providing insights into climate change patterns.
 
 
-
-
-## 🚀 Key Features
-
-📡 Integration with Google Earth Engine for accessing high-resolution ECMWF ERA5 datasets.
-
-🗺️ Interactive selection of region of interest (ROI) via geemap.
-
-🧊 Extraction of monthly 2-meter air temperature data from ERA5/ERA5-Land collections.
-
-📊 Trend analysis using Mann-Kendall test for detecting monotonic trends in time series.
-
-📈 High-quality visualizations with matplotlib.
-
-
-
-
 ## 🧰 Tools & Libraries
 
 xee – For loading Earth Engine ImageCollections into Xarray.
@@ -48,11 +31,7 @@ Trend Analysis : Apply the Mann-Kendall trend test to detect statistically signi
 
 Country Name Selection :  Select a country by name to automatically load and display its national boundary 
 
-Visualization : Generate time series plots, spatial maps, and clustered regions to better understand spatial and temporal temperature patterns.
-
-
-
-
+Visualization : Generate 
 
 ## 📸 Example Outputs
 
