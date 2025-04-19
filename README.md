@@ -3,6 +3,7 @@ This repository contains a Python-based workflow to analyze long-term temperatur
 
 
 
+
 ## 🚀 Key Features
 
 📡 Integration with Google Earth Engine for accessing high-resolution ECMWF ERA5 datasets.
@@ -16,6 +17,7 @@ This repository contains a Python-based workflow to analyze long-term temperatur
 📈 High-quality visualizations with matplotlib.
 
 
+
 ## 🧰 Tools & Libraries
 
 xee – For loading Earth Engine ImageCollections into Xarray.
@@ -27,6 +29,7 @@ xarray – For handling multi-dimensional data arrays.
 pymannkendall – For performing non-parametric trend tests.
 
 matplotlib, pandas, sklearn, geopandas, and more – For visualization and data manipulation.
+
 
 
 ## 📍 How It Works
@@ -46,12 +49,13 @@ Visualization : Generate time series plots, spatial maps, and clustered regions 
 
 
 
-
-
-📸 Example Outputs
+## 📸 Example Outputs
 (You can add example charts or screenshots here for better presentation)
 
-📜 License
+
+
+
+## 📜 License
 MIT License
 
 
