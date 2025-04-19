@@ -28,7 +28,7 @@ xarray – For handling multi-dimensional data arrays.
 
 pymannkendall – For performing non-parametric trend tests.
 
-matplotlib, pandas, sklearn, geopandas, and more – For visualization and data manipulation.
+matplotlib, pandas, geopandas, and more – For visualization and data manipulation.
 
 
 
