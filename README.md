@@ -48,6 +48,10 @@ Visualization : Generate time series plots, spatial maps, and clustered regions 
 
 
 
+📸 Example Outputs
+(You can add example charts or screenshots here for better presentation)
 
+📜 License
+MIT License
 
 
