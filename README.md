@@ -18,6 +18,7 @@ This repository contains a Python-based workflow to analyze long-term air temper
 
 
 
+
 ## 🧰 Tools & Libraries
 
 xee – For loading Earth Engine ImageCollections into Xarray.
@@ -29,6 +30,8 @@ xarray – For handling multi-dimensional data arrays.
 pymannkendall – For performing non-parametric trend tests.
 
 matplotlib, pandas, geopandas, and more – For visualization and data manipulation.
+
+
 
 
 
@@ -46,6 +49,8 @@ Trend Analysis : Apply the Mann-Kendall trend test to detect statistically signi
 Country Name Selection :  Select a country by name to automatically load and display its national boundary 
 
 Visualization : Generate time series plots, spatial maps, and clustered regions to better understand spatial and temporal temperature patterns.
+
+
 
 
 
