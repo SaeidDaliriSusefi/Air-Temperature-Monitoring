@@ -9,7 +9,7 @@ This repository contains a Python-based workflow to analyze long-term temperatur
 
 🗺️ Interactive selection of region of interest (ROI) via geemap.
 
-🧊 Extraction of daily and monthly 2-meter air temperature data from ERA5/ERA5-Land collections.
+🧊 Extraction of monthly 2-meter air temperature data from ERA5/ERA5-Land collections.
 
 📊 Trend analysis using Mann-Kendall test for detecting monotonic trends in time series.
 
