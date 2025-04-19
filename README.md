@@ -3,7 +3,8 @@ This repository contains a Python-based workflow to analyze long-term temperatur
 
 
 
-🚀 Key Features
+## 🚀 Key Features
+
 📡 Integration with Google Earth Engine for accessing high-resolution ECMWF ERA5 datasets.
 
 🗺️ Interactive selection of region of interest (ROI) via geemap.
