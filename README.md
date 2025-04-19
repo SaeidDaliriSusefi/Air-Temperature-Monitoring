@@ -3,8 +3,18 @@ This repository contains a Python-based workflow to analyze long-term temperatur
 
 
 
-## Project Overview
-The purpose of this project is to analyze the temporal changes in lake area, helping researchers and environmentalists understand the impact of climate change, human activity, and other factors on water bodies. By calculating NDWI over the years, the code extracts the water body and uses clustering to differentiate between water and non-water areas. The analysis then computes the lake area on an annual basis and visualizes these changes.
+🚀 Key Features
+📡 Integration with Google Earth Engine for accessing high-resolution ECMWF ERA5 datasets.
+
+🗺️ Interactive selection of region of interest (ROI) via geemap.
+
+🧊 Extraction of daily and monthly 2-meter air temperature data from ERA5/ERA5-Land collections.
+
+📊 Trend analysis using Mann-Kendall test for detecting monotonic trends in time series.
+
+🤖 Optional unsupervised classification using KMeans for spatial clustering.
+
+📈 High-quality visualizations with matplotlib.
 
 
 
