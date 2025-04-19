@@ -16,10 +16,15 @@ This repository contains a Python-based workflow to analyze long-term temperatur
 📈 High-quality visualizations with matplotlib.
 
 
+## 🧰 Tools & Libraries
 
-## Example Outputs
+xee – For loading Earth Engine ImageCollections into Xarray.
 
-![image alt](https://github.com/SaeidDaliriSusefi/Air-Temperature-Monitoring/blob/f3aef3564f6d9b1e43a33ee823bf69ed160656ec/Images/Ex1.png)
+geemap – For drawing and selecting regions interactively.
 
+xarray – For handling multi-dimensional data arrays.
 
-![image alt](https://github.com/SaeidDaliriSusefi/Air-Temperature-Monitoring/blob/288f6a3fd2f228259e31e0fa51c832c30edf6473/Images/Ex2.png)
+pymannkendall – For performing non-parametric trend tests.
+
+matplotlib, pandas, sklearn, geopandas, and more – For visualization and data manipulation.
+
