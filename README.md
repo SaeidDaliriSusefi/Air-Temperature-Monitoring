@@ -1,4 +1,4 @@
-# Air Temperature Monitoring
+# 🌍 Temperature Trend Analysis using Google Earth Engine & Python
 This repository contains code for monitoring the change 
 
 
