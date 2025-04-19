@@ -13,8 +13,6 @@ This repository contains a Python-based workflow to analyze long-term temperatur
 
 📊 Trend analysis using Mann-Kendall test for detecting monotonic trends in time series.
 
-🤖 Optional unsupervised classification using KMeans for spatial clustering.
-
 📈 High-quality visualizations with matplotlib.
 
 
