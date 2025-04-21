@@ -4,7 +4,7 @@ This repository contains a Python-based workflow to analyze long-term air temper
 ## 📸 Example Outputs
 
 ### Iran
-![image alt]()
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/721099228520d837f84fead4b6489865ce55e906/Images/Interactive%20Map.PNG)
 ![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/932157b785e9109cda9ab443bfb8ba0fc07e52a4/Images/Plots_Iran.png)
 ![image alt]()
 ![image alt]()
