@@ -18,7 +18,7 @@ This repository contains a Python-based workflow to analyze long-term air temper
 
 
 ### Italy
-![image alt](https://github.com/SaeidDaliriSusefi/Air-Temperature-Monitoring/blob/f56c4c7cd797b25e09bdbdb8f00d27facebbf53a/Images/Ex2.png)
+
 
 
 
