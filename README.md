@@ -6,7 +6,7 @@ This repository contains a Python-based workflow to analyze long-term air temper
 ### Italy
 
 #### Interactive Map of Average Annual Air Temprature:
-![image alt]()
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/6da4fed98874b3d441290b0fded2169b048317cd/Images/Interactive%20Map_Italy.PNG)
 
 
 
