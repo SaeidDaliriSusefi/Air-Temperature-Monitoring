@@ -19,7 +19,7 @@ This repository contains a Python-based workflow to analyze long-term air temper
 
 
 #### Trend Plot:
-![image alt]()
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/4968b0213ee8bd096d34911d6b9237c1408354fb/Images/Trend_Plot_Italy.png)
 
 
 
