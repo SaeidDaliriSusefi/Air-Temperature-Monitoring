@@ -9,8 +9,8 @@ This repository contains a Python-based workflow to analyze long-term air temper
 ![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/e0342d372f95368f2748c3f6fa117dd634fea251/Images/Yearly%20Average%20Air%20Temperature.png)
 
 
-#### Average Annual Air Temprature Trend Chart:
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/7524f7218a0c457f75755109df9c479000378a65/Images/Trend_Chart_Iran.png)
+#### Average Annual Long Term:
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/a42c1100c485a2baf57cb9815da5710617dd67ae/Images/Long%20Term%20Average%20Air%20Temperature.png)
 
 #### Trend Plot:
 ![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/6f508949ca7e3e1c4359f688053bac799d20c55e/Images/Trend_Plot_Iran.png)
