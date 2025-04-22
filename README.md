@@ -16,7 +16,7 @@ This repository contains a Python-based workflow to analyze long-term air temper
 ![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/da8301597d287a8ec43aa0e7a22bf7afcab59784/Images/Anomaly%20Yearly%20Average%20Air%20Temperature%20Respect%20to%20Long%20Term%20Average%20Italy.png)
 
 
-### Anomaly Average Air Temperature Respect to Average Yearly 2000: 
+### Anomaly Average Air Temperature Respect to Average Yearly 1980: 
 ![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/da8301597d287a8ec43aa0e7a22bf7afcab59784/Images/Anomaly%20Average%20Air%20Temperature%20Respect%20to%20Average%20Yearly%201980%20Italy.png)
 
 ### Air Temperature Trend:
@@ -39,7 +39,7 @@ This repository contains a Python-based workflow to analyze long-term air temper
 ![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/1f8174f3ea0c0f4bb660cdce9bedc54278551132/Images/Anomaly%20Yearly%20Average%20Air%20Temperature%20Respect%20to%20Long%20Term%20Average%20Iran.png)
 
 
-### Anomaly Average Air Temperature Respect to Average Yearly 2000: 
+### Anomaly Average Air Temperature Respect to Average Yearly 1980: 
 ![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/1f8174f3ea0c0f4bb660cdce9bedc54278551132/Images/Anomaly%20Average%20Air%20Temperature%20Respect%20to%20Average%20Yearly%201980%20Iran.png)
 
 ### Air Temperature Trend:
