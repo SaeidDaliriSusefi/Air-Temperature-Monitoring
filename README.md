@@ -6,20 +6,21 @@ This repository contains a Python-based workflow to analyze long-term air temper
 ### Iran
 
 #### Yearly Average Air Temperature:
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/e0342d372f95368f2748c3f6fa117dd634fea251/Images/Yearly%20Average%20Air%20Temperature.png)
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/1f8174f3ea0c0f4bb660cdce9bedc54278551132/Images/Yearly%20Average%20Air%20Temperature%20Iran.png)
 
 
 #### Long Term Average Air Temperature:
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/a42c1100c485a2baf57cb9815da5710617dd67ae/Images/Long%20Term%20Average%20Air%20Temperature.png)
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/1f8174f3ea0c0f4bb660cdce9bedc54278551132/Images/Long%20Term%20Average%20Air%20Temperature%20Iran.png)
 
 #### Anomaly Yearly Average Air Temperature Respect to Long Term Average:
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/623efa61fb2752e95656e44d028f1b6644633078/Images/Anomaly%20Yearly%20Average%20Air%20Temperature%20Respect%20to%20Long%20Term%20Average.png)
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/1f8174f3ea0c0f4bb660cdce9bedc54278551132/Images/Anomaly%20Yearly%20Average%20Air%20Temperature%20Respect%20to%20Long%20Term%20Average%20Iran.png)
 
 
 ### Anomaly Average Air Temperature Respect to Average Yearly 2000 
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/6f508949ca7e3e1c4359f688053bac799d20c55e/Images/Trend_Plot_Iran.png)
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/1f8174f3ea0c0f4bb660cdce9bedc54278551132/Images/Anomaly%20Average%20Air%20Temperature%20Respect%20to%20Average%20Yearly%201980%20Iran.png)
 
-
+### Air Temperature Trend
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/1f8174f3ea0c0f4bb660cdce9bedc54278551132/Images/Trend%20Iran.png)
 
 ## 📜 License
 MIT License
