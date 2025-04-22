@@ -3,38 +3,10 @@ This repository contains a Python-based workflow to analyze long-term air temper
 
 ## 📸 Example Outputs
 
-### Italy
-
-#### Interactive Map of Average Annual Air Temprature:
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/6da4fed98874b3d441290b0fded2169b048317cd/Images/Interactive%20Map_Italy.PNG)
-
-
-
-#### Average Annual Air Temprature Plots:
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/5319505a402b06d8bc4da7583ac5714d8dd1a466/Images/Plots_Italy.png)
-
-
-#### Average Annual Air Temprature Trend Chart:
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/d7b19c5b38baac197e353ce992ff9e6231aea3a7/Images/Trend_Chart_Italy.png)
-
-
-#### Trend Plot:
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/4968b0213ee8bd096d34911d6b9237c1408354fb/Images/Trend_Plot_Italy.png)
-
-
-
-
-#
-
 ### Iran
 
-#### Interactive Map of Average Annual Air Temprature:
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/721099228520d837f84fead4b6489865ce55e906/Images/Interactive%20Map.PNG)
-
-
-
 #### Average Annual Air Temprature Plots:
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/932157b785e9109cda9ab443bfb8ba0fc07e52a4/Images/Plots_Iran.png)
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/e0342d372f95368f2748c3f6fa117dd634fea251/Images/Yearly%20Average%20Air%20Temperature.png)
 
 
 #### Average Annual Air Temprature Trend Chart:
