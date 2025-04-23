@@ -41,7 +41,7 @@ This repository contains a Python-based workflow to analyze long-term air temper
 
 
 #### Trend Chart Average Air Temperature over the Iran:
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/122b1136652e31f23b164e20be7b8bd36556b741/Images/Trend%20Chart%20Average%20Air%20Temperature%20over%20the%20Italy.png)
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/44c9ea89672f1c75d9a823bc3cbc9e8c40f579ab/Images/Trend%20Chart%20Average%20Air%20Temperature%20over%20the%20Iran.png)
 
 
 
