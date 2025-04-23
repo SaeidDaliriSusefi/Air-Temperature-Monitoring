@@ -10,7 +10,7 @@ This repository contains a Python-based workflow to analyze long-term air temper
 
 
 
-#### Trend Chart Average Air Temperature over the Italy:
+#### Trend Chart Average Air Temperature:
 ![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/0ccc2830a6da297f408ea6cd0a0104234306d6ef/Images/Trend%20Chart%20Average%20Air%20Temperature%20over%20the%20Italy.png)
 
 
