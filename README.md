@@ -9,6 +9,13 @@ This repository contains a Python-based workflow to analyze long-term air temper
 ![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/da8301597d287a8ec43aa0e7a22bf7afcab59784/Images/Yearly%20Average%20Air%20Temperature%20Italy.png)
 
 
+
+
+#### Trend Chart Average Air Temperature over the Italy:
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/122b1136652e31f23b164e20be7b8bd36556b741/Images/Trend%20Chart%20Average%20Air%20Temperature%20over%20the%20Italy.png)
+
+
+
 #### Long Term Average Air Temperature:
 ![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/da8301597d287a8ec43aa0e7a22bf7afcab59784/Images/Long%20Term%20Average%20Air%20Temperature%20Italy.png)
 
@@ -30,6 +37,13 @@ This repository contains a Python-based workflow to analyze long-term air temper
 
 #### Yearly Average Air Temperature:
 ![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/1f8174f3ea0c0f4bb660cdce9bedc54278551132/Images/Yearly%20Average%20Air%20Temperature%20Iran.png)
+
+
+
+#### Trend Chart Average Air Temperature over the Iran:
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/122b1136652e31f23b164e20be7b8bd36556b741/Images/Trend%20Chart%20Average%20Air%20Temperature%20over%20the%20Italy.png)
+
+
 
 
 #### Long Term Average Air Temperature:
