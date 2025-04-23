@@ -6,58 +6,28 @@ This repository contains a Python-based workflow to analyze long-term air temper
 ### Italy (1980-2020):
 
 #### Yearly Average Air Temperature:
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/da8301597d287a8ec43aa0e7a22bf7afcab59784/Images/Yearly%20Average%20Air%20Temperature%20Italy.png)
-
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/0ccc2830a6da297f408ea6cd0a0104234306d6ef/Images/Yearly%20Average%20Air%20Temperature%20Italy%20(1).png)
 
 
 
 #### Trend Chart Average Air Temperature over the Italy:
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/122b1136652e31f23b164e20be7b8bd36556b741/Images/Trend%20Chart%20Average%20Air%20Temperature%20over%20the%20Italy.png)
-
-
-
-#### Long Term Average Air Temperature:
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/da8301597d287a8ec43aa0e7a22bf7afcab59784/Images/Long%20Term%20Average%20Air%20Temperature%20Italy.png)
-
-#### Anomaly Yearly Average Air Temperature Respect to Long Term Average:
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/da8301597d287a8ec43aa0e7a22bf7afcab59784/Images/Anomaly%20Yearly%20Average%20Air%20Temperature%20Respect%20to%20Long%20Term%20Average%20Italy.png)
-
-
-### Anomaly Average Air Temperature Respect to Average Yearly 1980: 
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/da8301597d287a8ec43aa0e7a22bf7afcab59784/Images/Anomaly%20Average%20Air%20Temperature%20Respect%20to%20Average%20Yearly%201980%20Italy.png)
-
-### Air Temperature Trend:
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/da8301597d287a8ec43aa0e7a22bf7afcab59784/Images/Trend%20Italy.png)
-
-
-
-#
-
-### Iran (1980-2020):
-
-#### Yearly Average Air Temperature:
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/1f8174f3ea0c0f4bb660cdce9bedc54278551132/Images/Yearly%20Average%20Air%20Temperature%20Iran.png)
-
-
-
-#### Trend Chart Average Air Temperature over the Iran:
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/44c9ea89672f1c75d9a823bc3cbc9e8c40f579ab/Images/Trend%20Chart%20Average%20Air%20Temperature%20over%20the%20Iran.png)
-
-
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/0ccc2830a6da297f408ea6cd0a0104234306d6ef/Images/Trend%20Chart%20Average%20Air%20Temperature%20over%20the%20Italy.png)
 
 
 #### Long Term Average Air Temperature:
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/1f8174f3ea0c0f4bb660cdce9bedc54278551132/Images/Long%20Term%20Average%20Air%20Temperature%20Iran.png)
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/0ccc2830a6da297f408ea6cd0a0104234306d6ef/Images/Long%20Term%20Average%20Air%20Temperature%20Italy.png)
 
 #### Anomaly Yearly Average Air Temperature Respect to Long Term Average:
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/1f8174f3ea0c0f4bb660cdce9bedc54278551132/Images/Anomaly%20Yearly%20Average%20Air%20Temperature%20Respect%20to%20Long%20Term%20Average%20Iran.png)
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/0ccc2830a6da297f408ea6cd0a0104234306d6ef/Images/Anomaly%20Yearly%20Average%20Air%20Temperature%20Respect%20to%20Long%20Term%20Average%20Italy%20(1).png)
 
 
 ### Anomaly Average Air Temperature Respect to Average Yearly 1980: 
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/1f8174f3ea0c0f4bb660cdce9bedc54278551132/Images/Anomaly%20Average%20Air%20Temperature%20Respect%20to%20Average%20Yearly%201980%20Iran.png)
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/0ccc2830a6da297f408ea6cd0a0104234306d6ef/Images/Anomaly%20Average%20Air%20Temperature%20Respect%20to%20Average%20Yearly%201980%20Italy%20(1).png)
 
 ### Air Temperature Trend:
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/1f8174f3ea0c0f4bb660cdce9bedc54278551132/Images/Trend%20Iran.png)
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/0ccc2830a6da297f408ea6cd0a0104234306d6ef/Images/Trend%20Italy.png)
+
+
 
 ## 📜 License
 MIT License
