@@ -17,11 +17,11 @@ This repository contains a Python-based workflow to analyze long-term air temper
 #### Long Term Annual Average Air Temperature:
 ![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/0ccc2830a6da297f408ea6cd0a0104234306d6ef/Images/Long%20Term%20Average%20Air%20Temperature%20Italy.png)
 
-#### Anomaly Yearly Average Air Temperature Respect to Long Term Average:
+#### Anomaly Annual Average Air Temperature Respect to Long Term Average:
 ![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/0ccc2830a6da297f408ea6cd0a0104234306d6ef/Images/Anomaly%20Yearly%20Average%20Air%20Temperature%20Respect%20to%20Long%20Term%20Average%20Italy%20(1).png)
 
 
-### Anomaly Average Air Temperature Respect to Average Yearly 1980: 
+### Anomaly Annual Average Air Temperature Respect to Average Yearly 1980: 
 ![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/0ccc2830a6da297f408ea6cd0a0104234306d6ef/Images/Anomaly%20Average%20Air%20Temperature%20Respect%20to%20Average%20Yearly%201980%20Italy%20(1).png)
 
 ### Air Temperature Trend:
