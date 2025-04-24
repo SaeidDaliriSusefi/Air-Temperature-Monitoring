@@ -16,29 +16,36 @@ This repository contains a Python-based workflow to analyze long-term air temper
 
 
 #### Trend Chart Average Air Temperature:
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/4945456e11957f9bbaeadfb536c8376c40af14a4/Images/Average%20Air%20Temperature%20trend%20over%20Italy_.gif)
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/e88b741091e872382c9ad369c02b25278e29915d/Images/Average%20Air%20Temperature%20trend%20over%20Italy.gif)
+
 
 
 #### Long Term Annual Average Air Temperature:
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/52c9474ce024f2d2e737c3e4fb8448d6225dd9dd/Images/Long%20Term%20Average%20Air%20Temperature%20Italy.png)
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/e88b741091e872382c9ad369c02b25278e29915d/Images/Long%20Term%20Average%20Air%20Temperature%20Italy.png)
+
+
 
 #### Anomaly Annual Average Air Temperature Respect to Long Term Average:
-
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/52c9474ce024f2d2e737c3e4fb8448d6225dd9dd/Images/Anomaly%20Yearly%20Average%20Air%20Temperature%20Respect%20to%20Long%20Term%20Average%20Italy.gif)
-
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/e88b741091e872382c9ad369c02b25278e29915d/Images/Anomaly%20Yearly%20Average%20Air%20Temperature%20Respect%20to%20Long%20Term%20Average%20Italy.gif)
 
 
 
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/52c9474ce024f2d2e737c3e4fb8448d6225dd9dd/Images/Anomaly%20Yearly%20Average%20Air%20Temperature%20Respect%20to%20Long%20Term%20Average%20Italy.png)
 
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/e88b741091e872382c9ad369c02b25278e29915d/Images/Anomaly%20Yearly%20Average%20Air%20Temperature%20Respect%20to%20Long%20Term%20Average%20Italy.png)
 
 
 
 ### Anomaly Annual Average Air Temperature Respect to Average Annual 1980: 
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/e88b741091e872382c9ad369c02b25278e29915d/Images/Anomaly%20Average%20Air%20Temperature%20Respect%20to%20Average%20Yearly%201980%20Italy.gif)
+
+
+
 ![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/0ccc2830a6da297f408ea6cd0a0104234306d6ef/Images/Anomaly%20Average%20Air%20Temperature%20Respect%20to%20Average%20Yearly%201980%20Italy%20(1).png)
 
+
+
 ### Air Temperature Trend:
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/0ccc2830a6da297f408ea6cd0a0104234306d6ef/Images/Trend%20Italy.png)
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/e88b741091e872382c9ad369c02b25278e29915d/Images/Trend%20Italy.png)
 
 
 
