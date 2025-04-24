@@ -6,10 +6,12 @@ This repository contains a Python-based workflow to analyze long-term air temper
 ### Italy (1980-2024):
 
 #### Annual Average Air Temperature:
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/98975e3d72711846e532f1568606eadbce87f328/Images/Yearly%20Average%20Air%20Temperature%20Italy.gif)
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/5298c8979b2b3d03297aa0d17ea05b03bff6332f/Images/Yearly%20Average%20Air%20Temperature%20Italy.gif)
 
 
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/98975e3d72711846e532f1568606eadbce87f328/Images/Yearly%20Average%20Air%20Temperature%20Italy.png)
+
+
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/5298c8979b2b3d03297aa0d17ea05b03bff6332f/Images/Yearly%20Average%20Air%20Temperature%20Italy.png)
 
 
 
