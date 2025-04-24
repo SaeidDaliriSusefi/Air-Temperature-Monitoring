@@ -6,50 +6,50 @@ This repository contains a Python-based workflow to analyze long-term air temper
 ### Italy (1980-2024):
 
 #### Annual Average Air Temperature:
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/5298c8979b2b3d03297aa0d17ea05b03bff6332f/Images/Yearly%20Average%20Air%20Temperature%20Italy.gif)
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/188a5da75f1135381b59a86a70e7ed40fb97b0a8/Images/Yearly%20Average%20Air%20Temperature%20Italy.gif)
 
 
 
 
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/5298c8979b2b3d03297aa0d17ea05b03bff6332f/Images/Yearly%20Average%20Air%20Temperature%20Italy.png)
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/188a5da75f1135381b59a86a70e7ed40fb97b0a8/Images/Yearly%20Average%20Air%20Temperature%20Italy.png)
 
 
 
 #### Trend Chart Average Air Temperature:
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/e88b741091e872382c9ad369c02b25278e29915d/Images/Average%20Air%20Temperature%20trend%20over%20Italy.gif)
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/188a5da75f1135381b59a86a70e7ed40fb97b0a8/Images/Average%20Air%20Temperature%20trend%20over%20Italy.gif)
 
 
 
 #### Long Term Annual Average Air Temperature:
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/50dada03eec2d595afd585d2708eda8930cf9d28/Images/Long%20Term%20Average%20Air%20Temperature%20Italy.png)
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/188a5da75f1135381b59a86a70e7ed40fb97b0a8/Images/Long%20Term%20Average%20Air%20Temperature%20Italy.png)
 
 
 
 #### Anomaly Annual Average Air Temperature Respect to Long Term Average:
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/e88b741091e872382c9ad369c02b25278e29915d/Images/Anomaly%20Yearly%20Average%20Air%20Temperature%20Respect%20to%20Long%20Term%20Average%20Italy.gif)
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/188a5da75f1135381b59a86a70e7ed40fb97b0a8/Images/Anomaly%20Yearly%20Average%20Air%20Temperature%20Respect%20to%20Long%20Term%20Average%20Italy.gif)
 
 
 
 
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/e88b741091e872382c9ad369c02b25278e29915d/Images/Anomaly%20Yearly%20Average%20Air%20Temperature%20Respect%20to%20Long%20Term%20Average%20Italy.png)
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/188a5da75f1135381b59a86a70e7ed40fb97b0a8/Images/Anomaly%20Yearly%20Average%20Air%20Temperature%20Respect%20to%20Long%20Term%20Average%20Italy.png)
 
 
 
 ### Anomaly Annual Average Air Temperature Respect to Average Annual 1980: 
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/e88b741091e872382c9ad369c02b25278e29915d/Images/Anomaly%20Average%20Air%20Temperature%20Respect%20to%20Average%20Yearly%201980%20Italy.gif)
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/188a5da75f1135381b59a86a70e7ed40fb97b0a8/Images/Anomaly%20Average%20Air%20Temperature%20Respect%20to%20Average%20Yearly%201980%20Italy.gif)
 
 
 
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/0a7ff356510c45a9277d7e1bc44536ee88ad13cd/Images/Anomaly%20Average%20Air%20Temperature%20Respect%20to%20Average%20Yearly%201980%20Italy.png)
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/188a5da75f1135381b59a86a70e7ed40fb97b0a8/Images/Anomaly%20Average%20Air%20Temperature%20Respect%20to%20Average%20Yearly%201980%20Italy.png)
 
 
 
 ### Air Temperature Trend:
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/30814c0920f9d8f970c5b1aa25b333d9783bd882/Images/Trend%20Italy..png)
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/188a5da75f1135381b59a86a70e7ed40fb97b0a8/Images/Trend%20Plots%20Italy.png)
 
 
 
 ## 📜 License
-MIT License
+
 
 
