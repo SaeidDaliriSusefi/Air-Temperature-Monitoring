@@ -21,7 +21,7 @@ This repository contains a Python-based workflow to analyze long-term air temper
 
 
 #### Long Term Annual Average Air Temperature:
-![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/e88b741091e872382c9ad369c02b25278e29915d/Images/Long%20Term%20Average%20Air%20Temperature%20Italy.png)
+![image alt](https://github.com/SaeidDaliriSusefi/AirTemperature-Trend-Monitoring/blob/c2febe3d0bdb1c0757857f85f31596729558216e/Images/Long%20Term%20Average%20Air%20Temperature%20Italy..png)
 
 
 
